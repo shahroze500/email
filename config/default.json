@@ -1,0 +1,15 @@
+{
+    "config": {
+        
+        "smtpServer":{
+            "host": "outlook",
+            "FROM_EMAIL": "usama@clubcapital.ventures",
+            "auth": {
+                "user": "usama@clubcapital.ventures",
+                "pass": "FixFirst7517515"
+            }
+        }
+
+    }
+}
+
